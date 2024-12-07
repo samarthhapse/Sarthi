@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>sarthi</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+      
+      body {
+        background-color: #ffffff;
+        background-image: url(https://www.transparenttextures.com/patterns/arches.png);
+        margin: 0; /* Ensure no margin around the body */
+        font-family: 'Rubik', sans-serif;
+      }
+      .dark-mode {
+        background-color: #343434;
+        background-image: url(https://www.transparenttextures.com/patterns/arches.png);
+      }
+      .dark-mode p,
+      .dark-mode h2,
+      .dark-mode h3 {
+        color: white;
+      }
+    </style>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Removed the translate-container div -->
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
