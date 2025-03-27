@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<i>Sarthi is an innovative online platform designed to bridge the gap between junior novices and seasoned experts across various industries. Whether you're a student looking for guidance, a budding professional seeking career advice, or an individual encountering technical hurdles, Sarthi is here to connect you with experienced mentors from around the globe.</i>
+<i>Innovative online platform designed to bridge the gap between junior novices and seasoned experts across various industries. Whether you're a student looking for guidance, a budding professional seeking career advice, or an individual encountering technical hurdles, Sarthi is here to connect you with experienced mentors from around the globe.</i>
 
 </div>
 
@@ -120,105 +120,5 @@
 - Handle payment confirmation and feedback submission logic
 - Update user profiles and records based on payment completion and feedback
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-## Installation
-
-#### Creating a Fork of the Repo and Clonning 
-
-1 . Clone the repository :
-
-```
-git clone https://github.com/samarthhapse/sarthi 
-```
-
-2 . Navigate to the project directory :
-```
-cd sarthi 
-```
-
-3 . Add git remote upstream throught the terminal navigating to the profile file: 
-```
-git remote add upstream https://github.com/samarthhapse/sarthi 
-```
-
-
-#### To get started with Sarthi frontend, follow these steps:
-
-1 . Start frontend :
-```
-cd client
-```
-
-2 . Install dependencies :
-```
-npm install
-```
-
-3 . Add A Environment Variable File `.env` having the Variables : 
-```
-CLIENT_ID=<THE-GOOGLE-AUTH-CLIENT-ID>
-CLIENT_SECRET_KEY=<THE-GOOGLE-AUTH-CLIENT-ID>
-CLIENT_REDIRECT_URL=<THE-URL-OF-YOUR-BACKEND>
-
-VITE_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
-VITE_APPWRITE_PROJECT=<YOUR-APPWRITE-PROJECT-ID>
-
-PORT=<PORT-AT-WHICH-YOUR-BACKEND-IS-RUNNING>
-```
-
-3 . Run client on localhost :
-
-```
-npm run dev
-```
-
-#### To get started with Sarthi Backend, follow these steps:
-
-1 . Direct to the sarthi project directory -> then to the server directory by using :
-```
-cd server
-```
-
-2 . Install dependencies :
-```
-npm install
-```
-
-3 . Add A Environment Variable File `.env` having the Variables : 
-```
-MONGO_URI=<YOUR-MONGODB-ATLAS-DATABASE-URL>
-PORT=<PORT-YOUR-WANT-YOUR-BACKEND-TO-RUN>
-
-CLOUDINARY_CLOUD_NAME=<YOUR-CLOUDINARY_CLOUD_NAME>
-CLOUDINARY_API_KEY=<YOUR-CLOUDINARY_API_KEY>
-CLOUDINARY_API_SECRET=<YOUR-CLOUDINARY_API_SECRET>
-
-SERVER_ADDRESS=<WHERE_YOUR_BACKEND_IS_RUNNING_> eg(http://localhost/PORT_NO.)
-
-#If your dont have these details create one on https://ethereal.email/ and create a demo account
-MAIL_HOST=<MAIL-HOST>
-MAIL_PORT=<MAIL-PORT>
-MAIL_AUTH_USER=<MAIL_AUTH_USER>
-MAIL_AUTH_PASSWORD=<MAIL_AUTH_PASSWORD>
-MAIL_OWNER_FOR_AUTH=<MAIL_ID_OF_MODERATOR/OWNER_OF_WEBSITE>
-
-JWT_SECRET_KEY=<YOUR-JWT_SECRET_KEY>
-```
-
-3 . Run client on localhost :
-
-```
-npm run dev
-```
-
-
-This will launch the application frontend in your default web browser.
->You can access it at `http://localhost:5173`
-
-
-
-
-
+## 📢 Follow
+[![Follow]([https://img.shields.io/static/v1?label=Follow&message=Me&color=blue&logo=github)](https://github.com/your-github-username](https://github.com/samarthhapse))
