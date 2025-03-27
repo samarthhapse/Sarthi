@@ -121,4 +121,4 @@
 - Update user profiles and records based on payment completion and feedback
 
 ## 📢 Follow
-[![Follow]([https://img.shields.io/static/v1?label=Follow&message=Me&color=blue&logo=github)](https://github.com/your-github-username](https://github.com/samarthhapse))
+➡️ [Follow me on GitHub](https://github.com/samarthhapse)
