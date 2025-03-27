@@ -42,7 +42,7 @@ html::-webkit-scrollbar, body::-webkit-scrollbar {
   left: -4px;
   right: -4px;
   bottom: -4px;
-  background: linear-gradient(45deg, rgba(255, 0, 150, 0.7), rgba(0, 204, 255, 0.7));
+  background: linear-gradient(45deg, rgba(255, 0, 150, 0.7), rgba(0, 204, 255, 0.77));
   z-index: -1;
   filter: blur(10px);
   animation: neon-pulse 1.5s infinite alternate;
@@ -50,7 +50,7 @@ html::-webkit-scrollbar, body::-webkit-scrollbar {
 
 @keyframes neon-pulse {
   0% {
-    opacity: 0.8;
+    opacity: 0.9;
     transform: scale(1);
   }
   100% {
