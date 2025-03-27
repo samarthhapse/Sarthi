@@ -77,8 +77,6 @@ function App() {
           
           {/* <Route path="/videoroom" element={<VideoRoom />} /> */}
           
-          
-          
           <Route path="/*" element={<PageNotFound />} />
         </Routes>
       </BrowserRouter>
